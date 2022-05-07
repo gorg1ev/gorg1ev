@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gorg1ev
+- 👀 I’m interested in programming and hacking :)
+- 🌱 I’m currently learning web dev
