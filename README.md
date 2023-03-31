@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hristijan Gjorgjiev from Macedonia, Strumica 🇲🇰.
 - 👀 I’m interested in web programming :)
-- 📖 What I have learned till now: [HTML, CSS, JavaScript, Git, Sass].
+- 📖 What I have learned till now: [HTML, CSS, JavaScript, Git, Sass, Tailwind CSS].
 - 🌱 Current learning: [ReactJs].
-- 🤓 Goal to learn: [Tailwind CSS, TypeScript, NextJs].
+- 🤓 Goal to learn: [TypeScript, NextJs].
